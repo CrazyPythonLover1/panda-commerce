@@ -4,6 +4,9 @@
 .orange-bg{
     background-color: #fceae8;
 }
+.carousel{
+    border-radius: 10px;
+}
 .carousel-item{
     padding:20px 40px;
 }
